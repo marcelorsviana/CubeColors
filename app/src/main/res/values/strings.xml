@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CubeColors</string>
+    <string name="task">Touch boxes to change colors</string>
+</resources>
